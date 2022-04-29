@@ -1,0 +1,2 @@
+Download all the necessary libraries which are in the code.python,nltk,spacy,numpy,pdfminer,pandas,streamlit,pymysql.Now use the code and run in command prompt using 
+streamlit run filename.py.Web application will be opened in the browser 
